@@ -1,0 +1,6 @@
+{
+  "appId": "com.myapp.generated",
+  "appName": "Avito",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
